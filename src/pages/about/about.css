@@ -1,0 +1,43 @@
+
+.img{
+    display: flex;
+    align-items:flex-end;
+    height:100vh;
+    width:100%;
+    background-image: url('forest.jpg');
+    background-size: 100% 100vh;
+}
+.scrollDown{
+ 
+    color:rgba(255, 255, 255, 0.76);
+    font-size:1.5em;
+    margin: 0 auto;
+}
+.arrow{
+    width:40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    width:100%;
+}
+.wrapper{
+    margin: 0 auto;
+}
+
+.men{
+   width:100%; 
+   height: 70vh;
+}
+
+.text-end{
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.keepscr{
+    font-size: 20px;
+    color:rgba(32, 29, 29, 0.664)
+}
+.about{
+    scroll-behavior: smooth;
+}
